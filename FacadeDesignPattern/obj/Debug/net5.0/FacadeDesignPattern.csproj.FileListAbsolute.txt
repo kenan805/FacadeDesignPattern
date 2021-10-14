@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net5.0\FacadeDesignPattern.exe
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net5.0\FacadeDesignPattern.deps.json
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net5.0\FacadeDesignPattern.runtimeconfig.json
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net5.0\FacadeDesignPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net5.0\FacadeDesignPattern.dll
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net5.0\ref\FacadeDesignPattern.dll
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\net5.0\FacadeDesignPattern.pdb
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.dll
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\ref\FacadeDesignPattern.dll
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.pdb
+C:\Users\user\source\repos\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\net5.0\FacadeDesignPattern.genruntimeconfig.cache
